@@ -55,18 +55,6 @@ The project consists of the following main tasks:
 - No external toolboxes required.  
 - Plots and figures generated using MATLAB’s built-in plotting functions.
 
----
-
-## Files
-
-| File | Description |
-|------|--------------|
-| `fractal_boundary_fit.m` | Main script containing all functions (`fractal`, `indicator_fn_at_x`, `bisection`, `poly_len`). |
-| `report.tex` | LaTeX report describing work done, results, and discussion (max 500 words). |
-| `fractal_plot.png` | Visualization of the fractal boundary (blue) and polynomial fit (red). |
-
----
-
 ## Author
 
 **Rishabh Gosain**  
